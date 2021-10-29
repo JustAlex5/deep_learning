@@ -1,1 +1,1 @@
-# dl_class1
+ Deep Learning: Ex.1 - A single neuron
